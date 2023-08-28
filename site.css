@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#header{
+    width: 100%;
+    height: 620px;
+    background-image: url(../lymesyte/images/front.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#nav-cont{
+    width: 100%;
+    margin: 10px;
+}
+.nav-item{
+padding-right: 50px;
+}
+.navbar-brand{
+    margin-left: 20px;
+    font-weight: bolder;
+    font-size: xx-large;
+    padding: 30px 10px;
+}
+.header-content{
+    width: 100%;
+   padding-top: 150px;
+   text-align: center;
+   color: white;
+}
+#hd-h{
+    
+    color: white;
+    text-align: center;
+    letter-spacing: 50px;
+    font-size: xx-large;
+}
+.hd-p{
+    padding-top: 40px;
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    margin-top: 70px;
+}
+#about{
+    margin-top: 60px;
+}
+#img{
+width: 550px;
+height: 500px;
+}
+#abou-h{
+    margin-top: 30px;
+    font-weight:bold;
+    text-align: center;
+}
+#abou-p{
+    margin-top: 20px;
+    line-height: 1.5;
+    line-height: 2;
+}
+#c1{
+    margin-left: 20px;
+}
+.card-img-top{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+#services{
+    margin-top: 100px;
+}
+#ser-con{
+    margin-top: 60px;
+}
+#ser-p{
+    text-align: center;
+    font-size: xx-large;
+    letter-spacing: 5px;
+    font-weight: 400;
+}
+.icons{
+    position: relative;
+    left: 140px;
+}
+#ser-p1{
+    text-align: center;
+    margin-top: 20px;
+    font-size: large;
+}
+#ser-p2{
+    padding-top: 20px;
+    line-height: 1.7;
+}
+#team-member{
+    margin-top: 20px;
+}
+#te-p{
+    text-align: center;
+    font-size: x-large;
+    letter-spacing: 5px;
+    font-weight: 600;
+}
+#footer{
+    margin-top: 20px;
+}
+#foot-cont{
+    padding-top: 40px;
+}
+#foo-p{
+    text-align: center;
+    font-size: x-large;
+    letter-spacing: 5px;
+    font-weight: 600;
+}
+#info{
+    text-align: center;
+    margin-left: 60px;
+    margin-top: -40px;
+
+}
+.c-icons{
+    margin-left: 120px;
+    margin-top: 7px;
+}
+#inp-row{
+    margin-top: 70px;
+}
+#input-size{
+    margin-left: 120px;
+    margin-top: 10px;
+   width: 380px;
+   height:40px;
+
+}
+#mess-box
+{
+    margin-top: 10px;
+    width:300px;
+    margin-left:-10px
+}
+.btn{
+   margin-left: 100px;
+}
+#end{
+    margin-top: 70px;
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: lighter;
+}
+#end1{
+    letter-spacing: 5px;
+    font-weight: lighter;
+    margin-top: -10px;
+    text-align: center;
+}
